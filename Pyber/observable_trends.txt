@@ -1,0 +1,3 @@
+1. Average fare is lower for Urban cities, mostlikly due to more drivers
+2. Urban generated the most revenue
+3. Overall, urban cities has the more drivers and rides.
